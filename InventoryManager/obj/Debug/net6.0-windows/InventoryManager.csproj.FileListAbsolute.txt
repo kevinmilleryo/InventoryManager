@@ -1,0 +1,17 @@
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.csproj.AssemblyReference.cache
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.InventoryManagementStudio.resources
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.csproj.GenerateResource.cache
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.AssemblyInfoInputs.cache
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.AssemblyInfo.cs
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\bin\Debug\net6.0-windows\InventoryManager.exe
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\bin\Debug\net6.0-windows\InventoryManager.deps.json
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\bin\Debug\net6.0-windows\InventoryManager.runtimeconfig.json
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\bin\Debug\net6.0-windows\InventoryManager.dll
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\bin\Debug\net6.0-windows\InventoryManager.pdb
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.dll
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\refint\InventoryManager.dll
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.pdb
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\InventoryManager.genruntimeconfig.cache
+C:\Users\xboon\source\repos\InventoryManager\InventoryManager\obj\Debug\net6.0-windows\ref\InventoryManager.dll
